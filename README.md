@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Awsome projects<br>🌱 I’m currently learning Laravel<br>
+🌱 I’m currently learning Rust<br>
 
 
 # 💻 Tech Stack:
